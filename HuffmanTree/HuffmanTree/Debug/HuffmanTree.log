@@ -1,0 +1,4 @@
+﻿  HuffmanTree.cpp
+d:\数据结构\huffmantree\huffmantree\status.h(7): warning C4005: “OVERFLOW”: 宏重定义
+  d:\windows kits\10\include\10.0.17134.0\ucrt\corecrt_math.h(967): note: 参见“OVERFLOW”的前一个定义
+  HuffmanTree.vcxproj -> D:\数据结构\HuffmanTree\Debug\HuffmanTree.exe
